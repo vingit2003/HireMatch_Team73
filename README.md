@@ -1,3 +1,3 @@
 # HireMatch_Team73
-View Demmo
+View Demo
 https://hirematch-team73.netlify.app/
