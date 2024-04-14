@@ -120,14 +120,12 @@ const FindJobs = () => {
               <span className='font-semibold'>{recordsCount}</span> Jobs
               Available
             </p>
-
             {/* <div className='flex flex-col md:flex-row gap-0 md:gap-2 md:items-center'>
               <p className='text-sm md:text-base'>Sort By:</p>
 
               <ListBox sort={sort} setSort={setSort} />
             </div> */}
           </div>
-
           <div className='w-full flex flex-wrap gap-4'>
             {data?.map((job, index) => {
               const newJob = {
